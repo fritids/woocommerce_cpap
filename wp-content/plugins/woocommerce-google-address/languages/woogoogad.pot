@@ -1,0 +1,10 @@
+#woogoogad
+
+#:class.front.php class.front.php
+msgid "Address not found ?"
+msgstr ""
+
+#:class.front.php class.front.php
+msgid "Address "
+msgstr ""
+

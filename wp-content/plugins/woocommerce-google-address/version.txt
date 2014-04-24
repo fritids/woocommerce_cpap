@@ -1,0 +1,17 @@
+Google Address Autocomplete for Woocommerce
+-------------------------------------------
+
+version 1.0.4
+- make the filter woogoogad_use_css_filter work again
+
+version 1.0.3
+- avoid another conflict with Google API already loaded
+
+version 1.0.2
+- avoid a conflict with Google API already loaded
+
+version 1.0.1
+- correction to support 1 shipping country
+
+version 1.0 :
+- Helps the user to select a valid address based on Google Place search

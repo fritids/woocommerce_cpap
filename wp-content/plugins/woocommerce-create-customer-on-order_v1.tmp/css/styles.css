@@ -1,0 +1,16 @@
+.create_user .toggle-create-user { display: none; margin-bottom: 8px; padding: 26px 18px 4px; border-radius: 2px; background: rgba(255, 255, 255, 0.7); box-sizing: border-box; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.04); border: 1px solid rgba(0, 0, 0, 0.12);}
+.edit_address { position: relative; }
+.save-billing-address, .save-shipping-address { float: right; font-weight: normal; color: #777;}
+.save-shipping-address-check, .save-billing-address-check { margin: 0 0 0 5px; }
+.create_user p { margin-top: -5px; }
+.create_user p { margin-top: -5px; }
+#order_data h4 { position: relative; }
+.button.create_user_form { width: 100%; }
+
+
+.button.submit_user_form_cancel { margin-top: 1em; margin-bottom: .6em; }
+.button.submit_user_form { float: right; margin-top: 1em; margin-bottom: .6em;}
+
+.button .create_user_icon { width: 9px; display: inline-block; background: url(../images/create-user-button-icon.png) 50% 50% no-repeat; margin: 0 0 0 3px;}
+
+.required-field { color: red; }
